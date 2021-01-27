@@ -1,4 +1,6 @@
 # FENUM token list
+> https://raw.githubusercontent.com/fenum/funum-token-list/master/build/fenum.tokenlist.json.
+
 
 ## Installing dependencies
 ```bash
