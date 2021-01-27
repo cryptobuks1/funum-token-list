@@ -1,32 +1,37 @@
 {
-  "name": "@uniswap/default-token-list",
-  "version": "2.0.0",
-  "description": "◦ The Uniswap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
-  "scripts": {
-    "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/uniswap-default.tokenlist.json",
-    "prepublishOnly": "npm test && npm run build"
-  },
-  "files": [
-    "build/uniswap-default.tokenlist.json"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Uniswap/default-token-list.git"
-  },
+  "name": "@fenum/token-list",
+  "version": "1.0.0",
+  "description": "FENUM token list",
   "keywords": [
+    "fenum",
     "uniswap",
-    "default",
     "token",
     "list"
   ],
-  "author": "Moody Salem",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/Uniswap/default-token-list/issues"
+  "author": {
+    "name": "FENUM",
+    "email": "support@fenum.io",
+    "url": "https://fenum.io/"
   },
-  "homepage": "https://github.com/Uniswap/default-token-list#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/fenum/token-list#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fenum/token-list"
+  },
+  "bugs": {
+    "url": "https://github.com/fenum/token-list/issues",
+    "email": "support@fenum.io"
+  },
+  "main": "build/fenum.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/fenum.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/fenum.tokenlist.json"
+  ],
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.8",

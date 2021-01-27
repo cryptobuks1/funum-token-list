@@ -1,5 +1,13 @@
 [
   {
+    "name": "FENUM Token",
+    "address": "0x3b6840B18c812690465972560DA5631657855dfC",
+    "symbol": "FNM",
+    "decimals": 2,
+    "chainId": 3,
+    "logoURI": "https://avatars.githubusercontent.com/u/36115574"
+  },
+  {
     "name": "Wrapped Ether",
     "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
     "symbol": "WETH",
