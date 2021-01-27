@@ -1,6 +1,6 @@
 {
   "name": "FENUM Token List",
-  "timestamp": "2021-01-27T05:53:05.295Z",
+  "timestamp": "2021-01-27T10:36:46.433Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -105,7 +105,7 @@
     },
     {
       "name": "FENUM Token",
-      "address": "0x3b6840B18c812690465972560DA5631657855dfC",
+      "address": "0xA115524EC1508a3DCC3e68237edA5889Fa3859Dc",
       "symbol": "FNM",
       "decimals": 2,
       "chainId": 1,
@@ -337,7 +337,7 @@
     },
     {
       "name": "FENUM Token",
-      "address": "0x3b6840B18c812690465972560DA5631657855dfC",
+      "address": "0xA115524EC1508a3DCC3e68237edA5889Fa3859Dc",
       "symbol": "FNM",
       "decimals": 2,
       "chainId": 3,
@@ -369,7 +369,7 @@
     },
     {
       "name": "FENUM Token",
-      "address": "0x3b6840B18c812690465972560DA5631657855dfC",
+      "address": "0xA115524EC1508a3DCC3e68237edA5889Fa3859Dc",
       "symbol": "FNM",
       "decimals": 2,
       "chainId": 4,
@@ -401,7 +401,7 @@
     },
     {
       "name": "FENUM Token",
-      "address": "0x3b6840B18c812690465972560DA5631657855dfC",
+      "address": "0xA115524EC1508a3DCC3e68237edA5889Fa3859Dc",
       "symbol": "FNM",
       "decimals": 2,
       "chainId": 5,
@@ -433,7 +433,7 @@
     },
     {
       "name": "FENUM Token",
-      "address": "0x3b6840B18c812690465972560DA5631657855dfC",
+      "address": "0xA115524EC1508a3DCC3e68237edA5889Fa3859Dc",
       "symbol": "FNM",
       "decimals": 2,
       "chainId": 42,
